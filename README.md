@@ -9,9 +9,8 @@
     - Tính điểm.
     - Khởi động lại trò chơi.
 * Demo: <br>
-![image info](./images/1.png)
-<br>
-![image info](./images/2.png)
+![image 1](./images/1.png)
+![image 2](./images/2.png)
 
 ### Thông tin sinh viên
 * Họ tên: Nguyễn Quỳnh Mai
